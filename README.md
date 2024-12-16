@@ -9,7 +9,7 @@
 * Master's degree in electrical engineering with an emphasis on control, automation and robotics 🦾🤖
 * Engineer at the Brazilian Air Force ✈️
 * Coffee lover ☕
-* I want to publish my works here and contribute to the community. Soon I will be publishing my projects concerning robotics as well.
+* I want to publish my works here and contribute to the community. Soon I will be publishing my projects in robotics as well.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jhomolos&show_icons=true&theme=tokyonight)
 <!--
