@@ -4,7 +4,7 @@
 
 #### What you need to know about me:
 
-* Data science student 🧠
+* Data sciencist 🧠
 * Control and automation engineer ⚙️💡
 * Master's degree in electrical engineering with an emphasis on control, automation and robotics 🦾🤖
 * Engineer at the Brazilian Air Force ✈️
